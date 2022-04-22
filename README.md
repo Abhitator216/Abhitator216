@@ -1,4 +1,4 @@
-### Hi there, I am Abhishek Kanojia 👋
+## Hi there, I am Abhishek Kanojia 👋
 
 - 🌱 I’m currently learning AI, Blockchain
 - 👯 I’m looking to collaborate on innovative projects
