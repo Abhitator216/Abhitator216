@@ -1,10 +1,7 @@
 ### Hi there, I am Abhishek Kanojia 👋
 
-Here are some ideas to get you started:
-
 - 🌱 I’m currently learning AI, Blockchain
 - 👯 I’m looking to collaborate on innovative projects
-- 💬 Ask me about ...
 - 📫 How to reach me: kanojiaabhishek46@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhitator216&exclude_repo=github-readme-stats&theme=dracula&layout=compact,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
